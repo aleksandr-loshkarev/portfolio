@@ -1,0 +1,35 @@
+https://domire.ru/ -- я делал:
+	- футер -- http://prntscr.com/klqoor
+	- вся страница кроме хедера -- https://domire.ru/italiya
+	- https://domire.ru/blog/vid-na-zhitelstvo/pmzh-v-gretsii-kak-poluchit-vid-na-zhitelstvo-i-pereehat-dlya-rossiyan-biznes-emigratsiya-iz-rossii все кроме хедера и этого блока --http://prntscr.com/klqqjq
+
+http://www.smartlab.ru/
+	- хедер
+	- первый экран
+	- блок портфолио
+	- футер
+	- страницу портфолио - http://www.smartlab.ru/ru/portfolio/
+	- страницу контакты - http://www.smartlab.ru/ru/contacts/
+
+http://sintez.online/
+	- все кроме страниц 03 и блока "Контактная информация"
+
+http://avenu-remont.ru/
+	- header
+	- footer
+	- http://avenu-remont.ru/remont/
+	- http://avenu-remont.ru/natyazhnie-potolki/ (модуль stock)
+
+https://automarine25.ru/
+	- categories
+	- popular-car 
+	- popular-brands
+	- footer
+	https://automarine25.ru/services/
+	- info
+	- categories
+	- sample-contracts
+
+http://alaskar.ru/
+	- modules-system 
+	- http://alaskar.ru/service.html
