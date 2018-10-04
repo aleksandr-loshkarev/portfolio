@@ -1,9 +1,11 @@
-https://domire.ru/ -- Done by me:
+https://domire.ru/
+	Done by me:
 	- footer
 	- all page except header -- https://domire.ru/italiya
 	- https://domire.ru/blog/vid-na-zhitelstvo/pmzh-v-gretsii-kak-poluchit-vid-na-zhitelstvo-i-pereehat-dlya-rossiyan-biznes-emigratsiya-iz-rossii all but the header and this block --http://prntscr.com/klqqjq
 
 http://www.smartlab.ru/
+	Done by me:
 	- header
 	- main-screen
 	- portfolio-slider
@@ -15,12 +17,14 @@ http://sintez.online/
 	I did everything except pages 3 and the "Contact Information" block
 
 http://avenu-remont.ru/
+	Done by me:
 	- header
 	- footer
 	- http://avenu-remont.ru/remont/
 	- http://avenu-remont.ru/natyazhnie-potolki/ (I made a stock block)
 
 https://automarine25.ru/
+	Done by me:
 	- categories
 	- popular-car 
 	- popular-brands
@@ -31,5 +35,6 @@ https://automarine25.ru/
 	- sample-contracts
 
 http://alaskar.ru/
+	Done by me:
 	- modules-system 
 	- http://alaskar.ru/service.html
