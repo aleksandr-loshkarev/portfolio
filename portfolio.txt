@@ -1,31 +1,31 @@
-https://domire.ru/ -- я делал:
-	- футер -- http://prntscr.com/klqoor
-	- вся страница кроме хедера -- https://domire.ru/italiya
-	- https://domire.ru/blog/vid-na-zhitelstvo/pmzh-v-gretsii-kak-poluchit-vid-na-zhitelstvo-i-pereehat-dlya-rossiyan-biznes-emigratsiya-iz-rossii все кроме хедера и этого блока --http://prntscr.com/klqqjq
+https://domire.ru/ -- Done by me:
+	- footer
+	- all page except header -- https://domire.ru/italiya
+	- https://domire.ru/blog/vid-na-zhitelstvo/pmzh-v-gretsii-kak-poluchit-vid-na-zhitelstvo-i-pereehat-dlya-rossiyan-biznes-emigratsiya-iz-rossii all but the header and this block --http://prntscr.com/klqqjq
 
 http://www.smartlab.ru/
-	- хедер
-	- первый экран
-	- блок портфолио
-	- футер
-	- страницу портфолио - http://www.smartlab.ru/ru/portfolio/
-	- страницу контакты - http://www.smartlab.ru/ru/contacts/
+	- header
+	- main-screen
+	- portfolio-slider
+	- footer
+	- page portfolio - http://www.smartlab.ru/ru/portfolio/
+	- page contacts - http://www.smartlab.ru/ru/contacts/
 
 http://sintez.online/
-	- все кроме страниц 03 и блока "Контактная информация"
+	I did everything except pages 3 and the "Contact Information" block
 
 http://avenu-remont.ru/
 	- header
 	- footer
 	- http://avenu-remont.ru/remont/
-	- http://avenu-remont.ru/natyazhnie-potolki/ (модуль stock)
+	- http://avenu-remont.ru/natyazhnie-potolki/ (I made a stock block)
 
 https://automarine25.ru/
 	- categories
 	- popular-car 
 	- popular-brands
 	- footer
-	https://automarine25.ru/services/
+	- page services https://automarine25.ru/services/ (I made blocks of info, categories, sample-contracts)
 	- info
 	- categories
 	- sample-contracts
